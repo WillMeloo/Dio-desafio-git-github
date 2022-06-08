@@ -1,0 +1,12 @@
+# O que é o Git 
+
+O Git é um sistema de controle d e versão e de código aberto criado por Linus por volta de 2005. 
+
+Não é um sistema centralizado, o Git permite que seja enviado documentos locais para repositórios no servidor facilitando a criação de novos repositórios. 
+
+È um sistema de complexidade media, o que facilita um aprendizado e uma evolução em pouco tempo nas funções existentes nele.
+
+## Link para download do Git
+
+[**Git**](https://git-scm.com/)
+
