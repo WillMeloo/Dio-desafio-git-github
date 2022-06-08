@@ -1,5 +1,7 @@
 # Dio desafio git/github
-Repositorio criado para acompanhar os estudods do Git/Github
+Repositorio criado para acompanhar os estudods feitos no bootcamp santander 
 
-## Links Úteis 
-[Sintaxe Basica Markdown](https://www.markdownguide.org/)
+- Desafios 
+- Conquistas 
+- Duvidas 
+- compreensão do curso 
