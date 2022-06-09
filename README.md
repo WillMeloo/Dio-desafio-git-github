@@ -1,5 +1,7 @@
-# Dio desafio git/github
-Repositorio criado para desafio de projeto sobre git/github
+# Desafio Dio minha vida no Bootcamp
+Repositorio criado para acompanhar os estudods feitos no bootcamp santander 
 
-## Links Úteis 
-[Sintaxe Basica Markdown](https://www.markdownguide.org/)
+- Desafios 
+- Conquistas 
+- Duvidas 
+- compreensão do curso 
