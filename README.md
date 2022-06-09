@@ -1,4 +1,4 @@
-# Dio desafio git/github
+# Desafio Dio minha vida no Bootcamp
 Repositorio criado para acompanhar os estudods feitos no bootcamp santander 
 
 - Desafios 
